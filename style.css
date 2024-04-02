@@ -1,0 +1,74 @@
+.pizza-icon {
+  width: 200px;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 2rem;
+}
+
+.container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+input[type="number"] {
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+button {
+  background-color: #ff6347;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #e74c3c;
+}
+
+.lupa-icon {
+  width: 20px;
+  height: 18px;
+  fill: #fff; /* Color del ícono de búsqueda */
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  max-width: 300px;
+  margin: 80px auto;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.card h3 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.card p {
+  font-size: 1.2em;
+  color: #666;
+}
+.error {
+  color: #d9534f;
+  background-color: #f2dede;
+  border: 1px solid #ebccd1;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 10px;
+}
